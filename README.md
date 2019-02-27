@@ -57,15 +57,17 @@ python main.py
 - `--interval_time`: interval time between two frames, default: `20`  
 **Note:** main.py read all of the videos and the corresponing txt files. 
 
+### ICVL Dataset
+Click [here](https://www.dropbox.com/sh/qvetvo6eqz1oi9l/AACXIqWiAaXNGlvpD3qUncAva?dl=0) to download ICVL dataset. Please cite our following paper to use ICVL dataset.
+
 ### Citation
 ```
-  @misc{chengbinjin2018actionviewer,
-    author = {Cheng-Bin Jin},
-    title = {ActionViewer},
-    year = {2018},
-    howpublished = {\url{https://github.com/ChengBinJin/ActionViewer}},
-    note = {commit xxxxxxx}
-  }
+@article{jin2017real,
+  title={Real-time action detection in video surveillance using sub-action descriptor with multi-cnn},
+  author={Jin, Cheng-Bin and Li, Shengzhe and Kim, Hakil},
+  journal={arXiv preprint arXiv:1710.03383},
+  year={2017}
+}
 ```  
 
 ## License
