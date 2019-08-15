@@ -24,7 +24,7 @@ This repository is the Action Viewer for the ICVL Action Dataset. More informati
 │   │   ├── AR-002-12-20151017-01-09.mkv
 │   │   ├── AR-002-12-20151017-01-09.txt
 │   │   ├── AR-003-12-20151024-02-04.avi
-│   │   └──  AR-003-12-20151024-02-04.txt
+│   │   └── AR-003-12-20151024-02-04.txt
 │   ├── Icon
 │   │   ├── Bending.bmp
 │   │   ├── Bicycling.bmp
